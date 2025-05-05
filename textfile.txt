@@ -3,4 +3,5 @@ git --version //to check version
 git init // to initialize git
 git config --global user.email "mail id" // to add configuration details
 git add <file> // to stage files 
-git add . // to stage all files
+git add . // to stage all files 
+git commit -m "<message>" // to commit 
